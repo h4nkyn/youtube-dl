@@ -18,6 +18,7 @@ youtube-dl - download videos from youtube.com or other video platforms
 # INSTALLATION
 
 To install it right away for all UNIX users (Linux, macOS, etc.), type:
+
     git clone https://github.com/h4nkyn/youtube-dl-thumbnail-fix.git
     cd youtube-dl-thumbnail-fix
     sudo pip install .
